@@ -1,0 +1,2 @@
+# maint
+Maintenance page boilerplate
